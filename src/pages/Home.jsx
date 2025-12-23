@@ -1,11 +1,10 @@
 import Hero from "../components/hero/Hero";
 
-const Home = () => {
+export default function Home() {
   return (
-    <>
+    <div>
       <Hero />
-    </>
+      {/* other sections */}
+    </div>
   );
-};
-
-export default Home;
+}
