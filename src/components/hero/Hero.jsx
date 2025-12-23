@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import profilePic from "../../assets/images/christina.jpg"; // replace with your image
+import profilePic from "../../assets/images/profile.jpeg"; 
 import { FaJs, FaReact, FaFlutter } from "react-icons/fa";
 
 const roles = [
